@@ -1,6 +1,6 @@
 
 public class HelloWorld {
 	public static void main (String [] args) {
-		System.out.println("Hello Philippines, I am Rojen!");
+		System.out.println("Hello Philippines, I am Rojen! I love the galaxy");
 	}
 }
